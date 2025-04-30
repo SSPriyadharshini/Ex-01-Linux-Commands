@@ -1,5 +1,6 @@
 # Ex-01-Linux-Commands
-
+## NAME: PRIYADHARSHINI S.S
+## REGISTER NUMBER: 212223040156
 
 ## Aim:
 
